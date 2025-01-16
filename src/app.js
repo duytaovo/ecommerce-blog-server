@@ -72,9 +72,10 @@ app.use(error.handler);     // error handler, send stacktrace only during develo
 
 
 //Config connection to MongoDb and listen app
-mongoose.connect(configs.mongoUri)
+mongoose
+  .connect(process.env.MONGO_URI)
   .then(() => LogUtils.info('DATABASE', `Connected successfully to MongoDB`))
-  .catch(err => LogUtils.info('DATABASE', 'Connect to MongoDB failed', err));
+  .catch((err) => LogUtils.info('DATABASE', 'Connect to MongoDB failed', err));
 
 
 export default app;
