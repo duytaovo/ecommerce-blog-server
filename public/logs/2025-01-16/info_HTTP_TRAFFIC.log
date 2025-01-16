@@ -1538,3 +1538,289 @@
 2025-01-16T08:48:20.177Z ::1 GET /d00000000000000000000001?fields=_id%20name%20slug%20desc%20video%20overSpecs%20policies%20detailSpecs%20origin%20category%20brand%20tags%20views%20rate%20variants%20quantity%20warrantyPeriod%20isHide%20createdAt%20updatedAt (200)
 2025-01-16T08:48:20.451Z ::1 GET /api/v2/products/d00000000000000000000001?fields=_id%20name%20slug%20desc%20video%20overSpecs%20policies%20detailSpecs%20origin%20category%20brand%20tags%20views%20rate%20variants%20quantity%20warrantyPeriod%20isHide%20createdAt%20updatedAt
 2025-01-16T08:48:20.460Z ::1 GET /d00000000000000000000001?fields=_id%20name%20slug%20desc%20video%20overSpecs%20policies%20detailSpecs%20origin%20category%20brand%20tags%20views%20rate%20variants%20quantity%20warrantyPeriod%20isHide%20createdAt%20updatedAt (200)
+2025-01-16T08:53:17.942Z ::1 GET /api/v2/account
+2025-01-16T08:53:18.126Z ::1 GET / (304)
+2025-01-16T08:53:18.128Z ::1 GET /api/v2/account
+2025-01-16T08:53:18.136Z ::1 GET / (304)
+2025-01-16T08:53:19.136Z ::1 POST /api/v2/cart
+2025-01-16T08:53:19.176Z ::1 GET /api/v2/products/search/suggest?keyword=
+2025-01-16T08:53:19.180Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2025-01-16T08:53:19.183Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2025-01-16T08:53:19.188Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2025-01-16T08:53:19.199Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2025-01-16T08:53:19.201Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:53:19.203Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:53:19.204Z ::1 GET /search/suggest?keyword= (304)
+2025-01-16T08:53:19.206Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2025-01-16T08:53:19.207Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2025-01-16T08:53:19.207Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2025-01-16T08:53:19.210Z ::1 POST / (200)
+2025-01-16T08:53:19.211Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2025-01-16T08:53:19.213Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:53:19.215Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:53:19.215Z ::1 GET /api/v2/products/search/suggest?keyword=
+2025-01-16T08:53:19.217Z ::1 GET /search/suggest?keyword= (304)
+2025-01-16T08:53:20.487Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2025-01-16T08:53:20.509Z ::1 GET /api/v2/products/best-seller
+2025-01-16T08:53:21.242Z ::1 GET /best-seller (304)
+2025-01-16T08:53:21.246Z ::1 GET /api/v2/products/best-seller
+2025-01-16T08:53:21.350Z ::1 GET /best-seller (304)
+2025-01-16T08:53:21.352Z ::1 GET /?search=&page=1&limit=20&b=&c= (200)
+2025-01-16T08:53:21.353Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2025-01-16T08:53:21.566Z ::1 GET /?search=&page=1&limit=20&b=&c= (304)
+2025-01-16T08:54:28.098Z ::1 GET /api/v2/account
+2025-01-16T08:54:28.244Z ::1 GET / (304)
+2025-01-16T08:54:28.246Z ::1 GET /api/v2/account
+2025-01-16T08:54:28.254Z ::1 GET / (304)
+2025-01-16T08:54:29.491Z ::1 GET /api/v2/products/search/suggest?keyword=
+2025-01-16T08:54:29.549Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2025-01-16T08:54:29.561Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2025-01-16T08:54:29.570Z ::1 POST /api/v2/cart
+2025-01-16T08:54:29.592Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2025-01-16T08:54:29.716Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:54:29.726Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:54:29.789Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2025-01-16T08:54:30.039Z ::1 POST / (200)
+2025-01-16T08:54:30.049Z ::1 GET /search/suggest?keyword= (304)
+2025-01-16T08:54:30.094Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2025-01-16T08:54:30.143Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2025-01-16T08:54:30.145Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2025-01-16T08:54:30.162Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:54:30.171Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:54:30.174Z ::1 GET /api/v2/products/search/suggest?keyword=
+2025-01-16T08:54:30.178Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2025-01-16T08:54:30.184Z ::1 GET /search/suggest?keyword= (304)
+2025-01-16T08:54:31.868Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2025-01-16T08:54:31.918Z ::1 GET /api/v2/products/best-seller
+2025-01-16T08:54:32.548Z ::1 GET /best-seller (304)
+2025-01-16T08:54:32.563Z ::1 GET /api/v2/products/best-seller
+2025-01-16T08:54:32.647Z ::1 GET /best-seller (304)
+2025-01-16T08:54:32.682Z ::1 GET /?search=&page=1&limit=20&b=&c= (304)
+2025-01-16T08:54:32.685Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2025-01-16T08:54:32.847Z ::1 GET /?search=&page=1&limit=20&b=&c= (304)
+2025-01-16T08:54:34.804Z ::1 GET /api/v2/account
+2025-01-16T08:54:34.875Z ::1 GET / (304)
+2025-01-16T08:54:34.878Z ::1 GET /api/v2/account
+2025-01-16T08:54:34.930Z ::1 GET / (304)
+2025-01-16T08:54:35.937Z ::1 GET /api/v2/products/search/suggest?keyword=
+2025-01-16T08:54:35.971Z ::1 POST /api/v2/cart
+2025-01-16T08:54:35.981Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2025-01-16T08:54:35.983Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2025-01-16T08:54:35.988Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2025-01-16T08:54:35.990Z ::1 GET /search/suggest?keyword= (304)
+2025-01-16T08:54:35.994Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:54:35.996Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:54:35.998Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2025-01-16T08:54:36.000Z ::1 POST / (200)
+2025-01-16T08:54:36.002Z ::1 GET /api/v2/products/search/suggest?keyword=
+2025-01-16T08:54:36.031Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2025-01-16T08:54:36.033Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2025-01-16T08:54:36.035Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2025-01-16T08:54:36.039Z ::1 GET /search/suggest?keyword= (304)
+2025-01-16T08:54:36.043Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:54:36.045Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:54:36.046Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2025-01-16T08:54:37.447Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2025-01-16T08:54:37.449Z ::1 GET /api/v2/products/best-seller
+2025-01-16T08:54:37.481Z ::1 GET /best-seller (304)
+2025-01-16T08:54:37.482Z ::1 GET /api/v2/products/best-seller
+2025-01-16T08:54:37.505Z ::1 GET /best-seller (304)
+2025-01-16T08:54:37.524Z ::1 GET /?search=&page=1&limit=20&b=&c= (304)
+2025-01-16T08:54:37.525Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2025-01-16T08:54:37.578Z ::1 GET /?search=&page=1&limit=20&b=&c= (304)
+2025-01-16T08:57:47.061Z ::1 GET /api/v2/account
+2025-01-16T08:57:47.204Z ::1 GET / (304)
+2025-01-16T08:57:47.205Z ::1 GET /api/v2/account
+2025-01-16T08:57:47.233Z ::1 GET / (304)
+2025-01-16T08:57:48.323Z ::1 POST /api/v2/cart
+2025-01-16T08:57:48.619Z ::1 POST / (200)
+2025-01-16T08:57:49.553Z ::1 GET /api/v2/brands
+2025-01-16T08:57:49.604Z ::1 GET /api/v2/products?search=&b=&c=
+2025-01-16T08:57:49.610Z ::1 GET /api/v2/categories
+2025-01-16T08:57:49.616Z ::1 GET / (304)
+2025-01-16T08:57:49.619Z ::1 GET / (304)
+2025-01-16T08:57:49.620Z ::1 GET /api/v2/users/customer
+2025-01-16T08:57:49.630Z ::1 GET /api/v2/orders/manager/?search=&status=&paymentStatus=&page=1&limit=100000
+2025-01-16T08:57:49.640Z ::1 GET /api/v2/brands
+2025-01-16T08:57:49.642Z ::1 GET /api/v2/categories
+2025-01-16T08:57:49.652Z ::1 GET /customer (304)
+2025-01-16T08:57:49.661Z ::1 GET / (304)
+2025-01-16T08:57:49.664Z ::1 GET / (304)
+2025-01-16T08:57:49.664Z ::1 GET /api/v2/users/customer
+2025-01-16T08:57:49.666Z ::1 GET /customer (304)
+2025-01-16T08:57:49.668Z ::1 GET /manager/?search=&status=&paymentStatus=&page=1&limit=100000 (304)
+2025-01-16T08:57:49.669Z ::1 GET /api/v2/orders/manager/?search=&status=&paymentStatus=&page=1&limit=100000
+2025-01-16T08:57:49.672Z ::1 GET /manager/?search=&status=&paymentStatus=&page=1&limit=100000 (304)
+2025-01-16T08:57:49.673Z ::1 GET /api/v2/orders/manager/?search=&status=&paymentStatus=&page=1&limit=100000
+2025-01-16T08:57:49.676Z ::1 GET /manager/?search=&status=&paymentStatus=&page=1&limit=100000 (304)
+2025-01-16T08:57:49.677Z ::1 GET /api/v2/orders/manager/?search=&status=&paymentStatus=&page=1&limit=100000
+2025-01-16T08:57:49.679Z ::1 GET /manager/?search=&status=&paymentStatus=&page=1&limit=100000 (304)
+2025-01-16T08:57:49.899Z ::1 GET /?search=&b=&c= (200)
+2025-01-16T08:57:49.902Z ::1 GET /api/v2/products?search=&b=&c=
+2025-01-16T08:57:49.933Z ::1 GET /?search=&b=&c= (304)
+2025-01-16T08:58:15.328Z ::1 GET /api/v2/products/search/suggest?keyword=
+2025-01-16T08:58:15.350Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2025-01-16T08:58:15.352Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2025-01-16T08:58:15.353Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2025-01-16T08:58:15.359Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:58:15.360Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2025-01-16T08:58:15.364Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:58:15.369Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2025-01-16T08:58:15.378Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2025-01-16T08:58:15.389Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2025-01-16T08:58:15.394Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:58:15.397Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2025-01-16T08:58:15.398Z ::1 GET /search/suggest?keyword= (304)
+2025-01-16T08:58:15.400Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:58:15.400Z ::1 GET /api/v2/products/search/suggest?keyword=
+2025-01-16T08:58:15.403Z ::1 GET /search/suggest?keyword= (304)
+2025-01-16T08:58:15.629Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2025-01-16T08:58:15.724Z ::1 GET /?search=&page=1&limit=20&b=&c= (304)
+2025-01-16T08:58:15.725Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2025-01-16T08:58:15.834Z ::1 GET /api/v2/products/best-seller
+2025-01-16T08:58:15.974Z ::1 GET /?search=&page=1&limit=20&b=&c= (304)
+2025-01-16T08:58:16.086Z ::1 GET /best-seller (304)
+2025-01-16T08:58:16.088Z ::1 GET /api/v2/products/best-seller
+2025-01-16T08:58:16.100Z ::1 GET /best-seller (304)
+2025-01-16T08:58:21.140Z ::1 GET /api/v2/products/best-seller
+2025-01-16T08:58:21.210Z ::1 GET /best-seller (304)
+2025-01-16T08:58:38.822Z ::1 GET /api/v2/products/search/suggest?keyword=
+2025-01-16T08:58:38.848Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2025-01-16T08:58:38.867Z ::1 GET /search/suggest?keyword= (304)
+2025-01-16T08:58:38.873Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2025-01-16T08:58:38.876Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2025-01-16T08:58:38.882Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:58:38.883Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:58:38.888Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2025-01-16T08:58:38.890Z ::1 GET /api/v2/products/search/suggest?keyword=
+2025-01-16T08:58:38.894Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2025-01-16T08:58:38.901Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2025-01-16T08:58:38.925Z ::1 GET /search/suggest?keyword= (304)
+2025-01-16T08:58:38.927Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:58:38.927Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2025-01-16T08:58:38.928Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:58:38.929Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2025-01-16T08:58:39.049Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2025-01-16T08:58:39.096Z ::1 GET /api/v2/products/best-seller
+2025-01-16T08:58:39.121Z ::1 GET /best-seller (304)
+2025-01-16T08:58:39.122Z ::1 GET /api/v2/products/best-seller
+2025-01-16T08:58:39.148Z ::1 GET /?search=&page=1&limit=20&b=&c= (304)
+2025-01-16T08:58:39.173Z ::1 GET /best-seller (304)
+2025-01-16T08:58:39.197Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2025-01-16T08:58:39.248Z ::1 GET /?search=&page=1&limit=20&b=&c= (304)
+2025-01-16T08:59:24.840Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2025-01-16T08:59:24.858Z ::1 GET /api/v2/products/search/suggest?keyword=
+2025-01-16T08:59:24.863Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2025-01-16T08:59:24.866Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2025-01-16T08:59:24.993Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:59:24.994Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:59:24.996Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2025-01-16T08:59:24.998Z ::1 GET /search/suggest?keyword= (304)
+2025-01-16T08:59:24.998Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2025-01-16T08:59:24.999Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2025-01-16T08:59:25.000Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2025-01-16T08:59:25.001Z ::1 GET /api/v2/products/search/suggest?keyword=
+2025-01-16T08:59:25.003Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:59:25.004Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:59:25.005Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2025-01-16T08:59:25.006Z ::1 GET /search/suggest?keyword= (304)
+2025-01-16T08:59:25.051Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2025-01-16T08:59:25.194Z ::1 GET /api/v2/products/best-seller
+2025-01-16T08:59:25.200Z ::1 GET /?search=&page=1&limit=20&b=&c= (304)
+2025-01-16T08:59:25.202Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2025-01-16T08:59:25.255Z ::1 GET /?search=&page=1&limit=20&b=&c= (304)
+2025-01-16T08:59:25.273Z ::1 GET /best-seller (304)
+2025-01-16T08:59:25.274Z ::1 GET /api/v2/products/best-seller
+2025-01-16T08:59:25.295Z ::1 GET /best-seller (304)
+2025-01-16T08:59:37.180Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2025-01-16T08:59:37.183Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2025-01-16T08:59:37.184Z ::1 GET /api/v2/products/search/suggest?keyword=
+2025-01-16T08:59:37.204Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2025-01-16T08:59:37.210Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2025-01-16T08:59:37.214Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:59:37.240Z ::1 GET /search/suggest?keyword= (304)
+2025-01-16T08:59:37.282Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:59:37.290Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2025-01-16T08:59:37.302Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2025-01-16T08:59:37.305Z ::1 GET /api/v2/products/search/suggest?keyword=
+2025-01-16T08:59:37.306Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2025-01-16T08:59:37.311Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2025-01-16T08:59:37.315Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:59:37.316Z ::1 GET /search/suggest?keyword= (304)
+2025-01-16T08:59:37.318Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T08:59:37.412Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2025-01-16T08:59:37.437Z ::1 GET /api/v2/products/best-seller
+2025-01-16T08:59:37.454Z ::1 GET /best-seller (304)
+2025-01-16T08:59:37.469Z ::1 GET /api/v2/products/best-seller
+2025-01-16T08:59:37.473Z ::1 GET /?search=&page=1&limit=20&b=&c= (304)
+2025-01-16T08:59:37.475Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2025-01-16T08:59:37.493Z ::1 GET /best-seller (304)
+2025-01-16T08:59:37.530Z ::1 GET /?search=&page=1&limit=20&b=&c= (304)
+2025-01-16T09:00:20.113Z ::1 POST /api/v2/auth/google
+2025-01-16T09:00:20.576Z ::1 POST /api/v2/auth/google (500)
+2025-01-16T09:10:44.352Z ::1 POST /api/v2/auth/google
+2025-01-16T09:10:44.800Z ::1 POST /api/v2/auth/google (500)
+2025-01-16T09:19:16.353Z ::1 POST /api/v2/auth/google
+2025-01-16T09:19:16.670Z ::1 POST /api/v2/auth/google (500)
+2025-01-16T09:52:37.722Z ::1 GET /auth/login
+2025-01-16T09:52:37.758Z ::1 GET /auth/login (404)
+2025-01-16T09:52:37.762Z ::1 GET /auth/login
+2025-01-16T09:52:37.765Z ::1 GET /auth/login (404)
+2025-01-16T09:56:28.378Z ::1 GET /auth/login
+2025-01-16T09:56:28.438Z ::1 GET /auth/login (404)
+2025-01-16T10:17:54.182Z ::1 POST /api/v2/auth/google
+2025-01-16T10:17:54.206Z ::1 POST /api/v2/auth/google (500)
+2025-01-16T10:18:00.248Z ::1 GET /api/v2/products/search/suggest?keyword=
+2025-01-16T10:18:00.293Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2025-01-16T10:18:00.295Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2025-01-16T10:18:00.297Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2025-01-16T10:18:00.543Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T10:18:00.547Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2025-01-16T10:18:00.554Z ::1 GET /search/suggest?keyword= (304)
+2025-01-16T10:18:00.582Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T10:18:00.587Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2025-01-16T10:18:00.590Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2025-01-16T10:18:00.598Z ::1 GET /api/v2/products/search/suggest?keyword=
+2025-01-16T10:18:00.603Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2025-01-16T10:18:00.615Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T10:18:00.619Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2025-01-16T10:18:00.623Z ::1 GET /search/suggest?keyword= (304)
+2025-01-16T10:18:00.630Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T10:18:00.748Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2025-01-16T10:18:01.014Z ::1 GET /api/v2/products/best-seller
+2025-01-16T10:18:01.160Z ::1 GET /best-seller (304)
+2025-01-16T10:18:01.161Z ::1 GET /api/v2/products/best-seller
+2025-01-16T10:18:01.201Z ::1 GET /best-seller (304)
+2025-01-16T10:18:01.217Z ::1 GET /?search=&page=1&limit=20&b=&c= (304)
+2025-01-16T10:18:01.219Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2025-01-16T10:18:01.266Z ::1 GET /?search=&page=1&limit=20&b=&c= (304)
+2025-01-16T10:18:08.554Z ::1 POST /api/v2/auth/google
+2025-01-16T10:18:09.207Z ::1 POST /api/v2/auth/google (500)
+2025-01-16T10:19:13.780Z ::1 POST /api/v2/auth/google
+2025-01-16T10:19:14.393Z ::1 POST /google (200)
+2025-01-16T10:19:15.493Z ::1 POST /api/v2/cart
+2025-01-16T10:19:15.550Z ::1 POST / (200)
+2025-01-16T10:19:16.681Z ::1 GET /api/v2/products/search/suggest?keyword=
+2025-01-16T10:19:16.737Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2025-01-16T10:19:16.745Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2025-01-16T10:19:16.748Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2025-01-16T10:19:16.838Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T10:19:16.875Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2025-01-16T10:19:16.920Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T10:19:16.927Z ::1 GET /search/suggest?keyword= (304)
+2025-01-16T10:19:16.930Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2025-01-16T10:19:16.939Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2025-01-16T10:19:16.948Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2025-01-16T10:19:16.954Z ::1 GET /api/v2/products/search/suggest?keyword=
+2025-01-16T10:19:16.960Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T10:19:16.962Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2025-01-16T10:19:16.968Z ::1 GET /?fields=name%20slug%20image (304)
+2025-01-16T10:19:16.985Z ::1 GET /search/suggest?keyword= (304)
+2025-01-16T10:19:17.547Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2025-01-16T10:19:17.563Z ::1 GET /api/v2/products/best-seller
+2025-01-16T10:19:17.843Z ::1 GET /best-seller (304)
+2025-01-16T10:19:17.844Z ::1 GET /api/v2/products/best-seller
+2025-01-16T10:19:17.883Z ::1 GET /best-seller (304)
+2025-01-16T10:19:17.920Z ::1 GET /?search=&page=1&limit=20&b=&c= (304)
+2025-01-16T10:19:17.922Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2025-01-16T10:19:17.975Z ::1 GET /?search=&page=1&limit=20&b=&c= (304)
