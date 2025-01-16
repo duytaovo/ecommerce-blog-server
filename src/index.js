@@ -25,6 +25,7 @@ serverApi.listen(serverPort, () => {
   // insertData();
 
   LogUtils.info('SERVER', `Server running at ${serverIp}:${serverPort}`);
+  LogUtils.info('mongodbUrl', `DB running at ${process.env.MONGO_URI}`);
 
   // if (configs.isProd) {
   //   let startMgs = '------------------------------------------------------';
