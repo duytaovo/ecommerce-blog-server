@@ -11,9 +11,9 @@ const env = cleanEnv(process.env, {
   JWT_EXPIRES_IN: str({}),
   JWT_SECRET: str({}),
 
-  FIREBASE_CLIENT_EMAIL: str({}),
-  FIREBASE_PRIVATE_KEY: str({}),
-  FIREBASE_PROJECT_ID: str({}),
+  // FIREBASE_CLIENT_EMAIL: str({}),
+  // FIREBASE_PRIVATE_KEY: str({}),
+  // FIREBASE_PROJECT_ID: str({}),
 
   GOOGLE_CLIENT_SECRET: str({}),
   GOOGLE_CLIENT_ID: str({}),
@@ -39,9 +39,9 @@ const configs = {
   jwtExpiresIn: env.JWT_EXPIRES_IN,
 
   firebaseServiceAccount: {
-    projectId: env.FIREBASE_PROJECT_ID,
-    privateKey: env.FIREBASE_PRIVATE_KEY,
-    clientEmail: env.FIREBASE_CLIENT_EMAIL,
+    // projectId: env.FIREBASE_PROJECT_ID,
+    // privateKey: env.FIREBASE_PRIVATE_KEY,
+    // clientEmail: env.FIREBASE_CLIENT_EMAIL,
   },
 
   google: {
