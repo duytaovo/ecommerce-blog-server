@@ -7,7 +7,7 @@ import {
   likeComment,
 } from '../../controllers/comments-blog.controller.js';
 import { Router } from 'express';
-import { isAuthorized } from '../../middlewares/jwt-auth.js';
+import { isAdminOrStaff, isAuthorized } from '../../middlewares/jwt-auth.js';
 
 const router = Router();
 
@@ -16,6 +16,6 @@ router.get('/getPostComments/:postId', getPostComments);
 router.put('/likeComment/:commentId', isAuthorized, likeComment);
 router.put('/editComment/:commentId', isAuthorized, editComment);
 router.delete('/deleteComment/:commentId', isAuthorized, deleteComment);
-router.get('/', isAuthorized, getcomments);
+router.get('/', isAdminOrStaff, getcomments);
 
 export default router;
